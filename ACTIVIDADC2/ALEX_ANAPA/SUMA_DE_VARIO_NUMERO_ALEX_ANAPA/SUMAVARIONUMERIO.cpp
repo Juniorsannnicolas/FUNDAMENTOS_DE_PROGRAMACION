@@ -1,3 +1,11 @@
+
+
+//HACIENDO SUMA DE VARIOS NUMEROS EN C++//
+
+
+//ALEX JUNIOR ANAPA SAN NICOLAS//
+
+
 #include<iostream>
 using namespace std;
 

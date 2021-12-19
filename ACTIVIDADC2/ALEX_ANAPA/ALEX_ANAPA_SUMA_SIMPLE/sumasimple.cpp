@@ -1,6 +1,13 @@
+
+
+//HACIENDO SUMA DE DOS NUMERO EN C++//
+//ALEX ANAPA//
+
+
 #include<iostream>
 using namespace std;
-int main()
+int main() 
+
 {
 	float a,b,r;
 	cout<<" por favor ingrese el numero a :";

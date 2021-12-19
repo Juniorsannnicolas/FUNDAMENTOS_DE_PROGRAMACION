@@ -1,8 +1,15 @@
+//HACIENDO COMPARACION DE LOS DOS NUMERO EN C++//
+
+//ALEX JUNIOR AÑAPA SAN NICOLAS//
+
+
+
+
 #include<iostream>
 using namespace std;
 int main()
 {
-      float a,b;
+     float a,b;
 
               cout<<" Por favor ingrese un numero: "; cin>>a;
 	      cout<<" Por favor ingrese segundo numero: ";cin>>b;
